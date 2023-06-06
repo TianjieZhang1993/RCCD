@@ -1,6 +1,6 @@
 # RCCD: Road Cracks Classification dataset
 
-- This dataset can be used to train or test a road crack task
+- This dataset can be used to train and test a pavement crack classification neural network as an open-source and standard dataset.
 
 - It was cropped from a DSPS dataset provided by FHWA.
 
